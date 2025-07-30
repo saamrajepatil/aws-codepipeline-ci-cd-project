@@ -1,5 +1,6 @@
 # AWS Continuous Integration Demo
-<img width="455" height="249" alt="image" src="https://github.com/user-attachments/assets/24d7f7ac-3083-4608-b1f3-166ee6bf8fda" />
+<img width="715" height="381" alt="image" src="https://github.com/user-attachments/assets/3bbc3f2c-5c5c-47d8-aa07-45725c0976a6" />
+
 
 ## Set Up GitHub Repository
 
